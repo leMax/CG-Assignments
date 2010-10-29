@@ -1,0 +1,16 @@
+WIN32:
+---------------------------------------
+- The framework uses the in Windows included version of Opengl and GLU.
+- The library files, Headers and DLL's of SDL and DevIL are included in the direcories ./lib/ ./include/ and ./Debug and ./Release respectively
+- There is a Microsoft Visual Express 2008 Solution file included: 'oopFramework.sln'
+- If you want to use another IDE, you have to create your own Project file
+- If you plan to use a Makefile to develop under Windows, there is already a working one in ./oopframework/Makefile
+LINUX/OTHER
+---------------------------------------
+- use the Makefile to compile the program
+- make sure that you've installed libsdl1.2-dev, libdevil-dev, libglew1.5-dev and all the other OpenGL dependencies (os dependent) in order to compile the Program successfully
+- the final binary is copied into the folder ./Release after successful build
+
+If there is some question, feel free to mail me @ andy.reimann@uni-weimar.de.
+
+Have phun :)

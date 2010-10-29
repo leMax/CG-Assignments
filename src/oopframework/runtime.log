@@ -1,0 +1,46 @@
+ [1] : SDL: Init Window with SDL...
+ [2] : SDL: WindowX=1024 WindowY=768 AASamples=1 Title=Beleg 1: Universe in a nut-shell
+ [3] : SDL: done. Init SDL-VideoMode...
+ [4] : done
+ [5] : Ressourcemanager: Adding Ressource Location '../media/' to Ressource Manager.
+ [6] : Ressourcemanager: Adding Ressource Location '../media/images/' to Ressource Manager.
+ [7] : Ressourcemanager: File earthmap4k.jpg found in ressource location ../media/images/
+ [8] : TextureManager: Searching in Texturepool for texture '../media/images/earthmap4k.jpg'...
+ [9] : TextureManager: done.
+Texture wasn't loaded before so we try to load it now...
+ [10] : TextureManager: Properties: width = 4096 height = 2048 components = 3 format = 6407
+ [11] : TextureManager Warning: The dimensions of the Texture '../media/images/earthmap4k.jpg' are bigger than the maximum supported dimension of 2048Pixels.
+
+ [12] : Ressourcemanager: File earthmap1k.jpg found in ressource location ../media/images/
+ [13] : TextureManager: Searching in Texturepool for texture '../media/images/earthmap1k.jpg'...
+ [14] : TextureManager: done.
+Texture wasn't loaded before so we try to load it now...
+ [15] : TextureManager: Properties: width = 1000 height = 500 components = 3 format = 6407
+ [16] : TextureManager: Texture successfully loaded
+ [17] : Ressourcemanager: File earth_clouds_4k.jpg found in ressource location ../media/images/
+ [18] : TextureManager: Searching in Texturepool for texture '../media/images/earth_clouds_4k.jpg'...
+ [19] : TextureManager: done.
+Texture wasn't loaded before so we try to load it now...
+ [20] : TextureManager: Properties: width = 4096 height = 2048 components = 3 format = 6407
+ [21] : TextureManager Warning: The dimensions of the Texture '../media/images/earth_clouds_4k.jpg' are bigger than the maximum supported dimension of 2048Pixels.
+
+ [22] : Ressourcemanager: File earth_clouds_1k.jpg found in ressource location ../media/images/
+ [23] : TextureManager: Searching in Texturepool for texture '../media/images/earth_clouds_1k.jpg'...
+ [24] : TextureManager: done.
+Texture wasn't loaded before so we try to load it now...
+ [25] : TextureManager: Properties: width = 1024 height = 512 components = 3 format = 6407
+ [26] : TextureManager: Texture successfully loaded
+ [27] : Ressourcemanager: File starmap_4k.jpg found in ressource location ../media/images/
+ [28] : TextureManager: Searching in Texturepool for texture '../media/images/starmap_4k.jpg'...
+ [29] : TextureManager: done.
+Texture wasn't loaded before so we try to load it now...
+ [30] : TextureManager: Properties: width = 4096 height = 2048 components = 3 format = 6407
+ [31] : TextureManager Warning: The dimensions of the Texture '../media/images/starmap_4k.jpg' are bigger than the maximum supported dimension of 2048Pixels.
+
+ [32] : Ressourcemanager: File starmap_1k.jpg found in ressource location ../media/images/
+ [33] : TextureManager: Searching in Texturepool for texture '../media/images/starmap_1k.jpg'...
+ [34] : TextureManager: done.
+Texture wasn't loaded before so we try to load it now...
+ [35] : TextureManager: Properties: width = 1024 height = 512 components = 3 format = 6407
+ [36] : TextureManager: Texture successfully loaded
+ [37] : Renderengine: 36 Frames rendered.

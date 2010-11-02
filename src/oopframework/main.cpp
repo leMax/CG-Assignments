@@ -7,7 +7,7 @@
 	// @see http://www.spieleprogrammierer.de/phpBB2/viewtopic.php?t=8526
 	#undef main
 #endif 
-
+//test
 int main( int argc, char** argv ) {
     // SDL_OPENGL;          Enable OpenGL in SDL */
     // SDL_GL_DOUBLEBUFFER; Enable double buffering */

@@ -1,7 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oopframework", "oopframework\oopframework.vcproj", "{CC5AE0D3-8C42-4ED2-BC31-77B7F45D972A}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oopframework", "oopframework\oopframework.vcxproj", "{CC5AE0D3-8C42-4ED2-BC31-77B7F45D972A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
